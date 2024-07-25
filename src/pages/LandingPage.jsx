@@ -5,7 +5,7 @@ import Slider from '../components/Slider'
 function LandingPage() {
   return (
     <>
-    <section className="bg-violet-300 h-auto min-h-[500px] sm:min-h-[850px]">
+    <section className="bg-purple-950 h-auto min-h-[500px] sm:min-h-[850px]">
   <div>
     <Navbar />
   </div>

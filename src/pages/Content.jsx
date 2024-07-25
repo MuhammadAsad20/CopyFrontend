@@ -3,7 +3,7 @@ import '../App.css'
 function Content() {
   return (
    <>
-   <section class="bg-purple-700 h-auto md:h-[540px] w-full flex items-center justify-center p-4 md:p-0">
+   <section class="bg-purple-800 h-auto md:h-[540px] w-full flex items-center justify-center p-4 md:p-0">
     <div class="text-white max-w-[815px] h-auto md:h-[307px] flex flex-col items-center justify-between">
         <div class="w-auto md:w-[135px] h-auto md:h-[26px] leading-[26px] tracking-[2px] flex items-center justify-center md:justify-between text-[14px] font-bold">
             Free Sample

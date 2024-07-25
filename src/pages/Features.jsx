@@ -3,7 +3,7 @@ import React from 'react'
 function Features() {
     return (
         <div>
-          <section class="bg-purple-900 text-white h-auto md:h-[736px] w-full flex flex-col md:flex-row items-center justify-between p-4 md:p-0">
+          <section class="bg-purple-950 text-white h-auto md:h-[736px] w-full flex flex-col md:flex-row items-center justify-between p-4 md:p-0">
     <div class="bg-blue-900 h-[300px] md:h-[535.77px] w-full md:w-[383.3px] flex items-center justify-center overflow-hidden mb-4 md:mb-0">
         <img src="https://rb.gy/1ddfo6" alt="Your Image" class="h-full w-full object-cover" />
     </div>

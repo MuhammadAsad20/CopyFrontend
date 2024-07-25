@@ -3,7 +3,7 @@ import React from 'react'
 function PricingTable() {
   return (
     <div>
-        <section className='bg-indigo-900 text-white flex flex-col items-center justify-center gap-16 py-16'>
+        <section className='bg-indigo-950 text-white flex flex-col items-center justify-center gap-16 py-16'>
     <div className='w-full max-w-[586px] text-center px-4'>
         <div className='font-bold text-[32px] sm:text-[42px] leading-[42px] sm:leading-[52px] tracking-[-0.4px] mb-4'>Plans & Pricing</div>
         <div className='font-medium text-[18px] sm:text-[22px] leading-[28px] sm:leading-[32px]'>Startup Framework is free forever — you only pay for custom domain hosting or to export your site.</div>
